@@ -1,5 +1,5 @@
 /*Algoritmo figuras geometricas*/
-// Triangulo 
+
 var figura = ['triangulo', 'rectangulo', 'cuadrado', 'cirulo']
 const calculo = ['area', 'perimetro']
 
